@@ -11,5 +11,6 @@ Junior at Brown University, concentrating in Computational Neuroscience and Appl
  
 **Interests:** brain-computer interfaces · computational & statistical neuroscience · applied math · interpretability of a stochastic brain.
  
-📫 Reach me at aida.undercover@gmail.com · more at [abkenova.com](https://abkenova.com) · Based in Greater Boston Area.
+📫 Reach me at aida.undercover@gmail.com · more at [abkenova.com](https://abkenova.com)
+📍Based in Greater Boston Area.
  
