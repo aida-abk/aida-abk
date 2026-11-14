@@ -1,16 +1,14 @@
-## Hi there 👋
-
-<!--
-**aida-abk/aida-abk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Aida 👋
+ 
+Junior at Brown University, concentrating in Computational Neuroscience and Applied Mathematics. I work at the intersection of neuroscience and machine learning, and I'm headed toward brain-computer interfaces (an optimization problem constrained by biology — how cool is that?).
+ 
+- 🔬 Neuroprocessing Team Lead, [Alhusaini Lab](https://sites.brown.edu/alhusaini/) - MRI pipelines, HPC, protocols
+- 🧠 [Carney Quantitative Scholar](https://www.brown.edu/news/2026-10-08/carney-quantitative-scholars) — dynamical systems and statistical methods for neural signals
+- 🩻 Research at MGH / Harvard Medical School — modeling for PET-based tumor estimation
+- 👥 President, [Computational Neuroscience DUG @ Brown](https://www.browncompneuro.com/)
+**Currently:** studying neural signal processing, building toward neural decoding, and exploring neurotech industry.
+ 
+**Interests:** brain-computer interfaces · computational & statistical neuroscience · applied math · interpretability of a stochastic brain.
+ 
+📫 Reach me at aida.undercover@gmail.com · more at [abkenova.com](https://abkenova.com) · Based in Greater Boston Area.
+ 
