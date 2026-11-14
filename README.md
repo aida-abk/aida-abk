@@ -1,6 +1,6 @@
 # Hi, I'm Aida 👋
  
-Junior at Brown University, concentrating in Computational Neuroscience and Applied Mathematics. I work at the intersection of neuroscience and machine learning, and I'm headed toward brain-computer interfaces (an optimization problem constrained by biology — how cool is that?).
+Junior at Brown University, concentrating in Computational Neuroscience and Applied Mathematics. 
  
 - 🔬 Neuroprocessing Team Lead, [Alhusaini Lab](https://sites.brown.edu/alhusaini/) - MRI pipelines, HPC, protocols
 - 🧠 [Carney Quantitative Scholar](https://www.brown.edu/news/2026-10-08/carney-quantitative-scholars) — dynamical systems and statistical methods for neural signals
@@ -12,5 +12,6 @@ Junior at Brown University, concentrating in Computational Neuroscience and Appl
 **Interests:** brain-computer interfaces · computational & statistical neuroscience · applied math · interpretability of a stochastic brain.
  
 📫 Reach me at aida.undercover@gmail.com · more at [abkenova.com](https://abkenova.com)
+
 📍Based in Greater Boston Area.
  
